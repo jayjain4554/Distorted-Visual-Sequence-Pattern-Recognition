@@ -1,6 +1,6 @@
 # Distorted-Visual-Sequence-Pattern-Recognition
 
-A deep learning pipeline for recognizing character sequences from heavily distorted grayscale images, built as a solution to the CIG Problem Statement challenge.
+A deep learning pipeline for recognizing character sequences from heavily distorted grayscale images.
 
 ---
 
