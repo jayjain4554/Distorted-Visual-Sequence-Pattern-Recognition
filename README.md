@@ -139,4 +139,3 @@ Run on **Google Colab** (GPU recommended). Mount your Drive and update `ZIP_PATH
 |------|-------------|
 | `Distorted_Visual_Sequence_Pattern_Recognition.ipynb` | Full solution notebook |
 | `output.csv` | Test set predictions |
-| `sample_images.png` | Grid of training samples with labels |
