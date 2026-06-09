@@ -140,5 +140,3 @@ Run on **Google Colab** (GPU recommended). Mount your Drive and update `ZIP_PATH
 | `Distorted_Visual_Sequence_Pattern_Recognition.ipynb` | Full solution notebook |
 | `output.csv` | Test set predictions |
 | `sample_images.png` | Grid of training samples with labels |
-| `training_curves.png` | CTC loss and CER plots over epochs |
-| `val_predictions.png` | Visual comparison of GT vs predicted on validation |
